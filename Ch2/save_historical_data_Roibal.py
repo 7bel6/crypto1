@@ -6,7 +6,7 @@ import matplotlib
 import matplotlib.pyplot as plt
 import matplotlib.ticker as mticker
 import matplotlib.dates as mdates
-import mpl_finance #import candlestick_ohlc
+import mplfinance #import candlestick_ohlc
 
 from datetime import datetime
 from binance.client import Client
